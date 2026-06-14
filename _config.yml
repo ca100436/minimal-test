@@ -59,8 +59,9 @@ plugins:
 
 author:
   name   : "Yu Sungyoon"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Computer Science student | Future Backend Developer"
-  links:cv                                   
+  links:                                   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://ca100436.github.io/"
